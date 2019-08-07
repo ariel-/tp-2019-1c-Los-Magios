@@ -1,0 +1,3 @@
+RUN library_study.lql
+RUN nintendo_playstation.lql
+RUN cosas_falla.lql

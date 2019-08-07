@@ -1,0 +1,3 @@
+RUN animales.lql
+RUN comidas.lql
+RUN internet_browser_falla.lql

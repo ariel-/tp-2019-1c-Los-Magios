@@ -1,0 +1,3 @@
+ADD MEMORY 1 TO EC
+ADD MEMORY 2 TO EC
+RUN simple_ec.lql

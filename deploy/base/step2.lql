@@ -1,0 +1,2 @@
+ADD MEMORY 1 TO SC
+RUN simple_sc.lql

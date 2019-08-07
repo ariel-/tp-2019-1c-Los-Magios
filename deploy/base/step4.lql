@@ -1,0 +1,3 @@
+ADD MEMORY 1 TO SHC
+ADD MEMORY 2 TO SHC
+RUN simple_shc.lql

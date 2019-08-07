@@ -1,0 +1,4 @@
+ADD MEMORY 1 TO EC
+ADD MEMORY 2 TO EC
+ADD MEMORY 3 TO EC
+RUN compactacion_larga.lql

@@ -1,0 +1,3 @@
+RUN cities_countries.lql
+RUN games_computer.lql
+RUN internet_browser_falla.lql

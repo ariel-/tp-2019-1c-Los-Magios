@@ -1,0 +1,3 @@
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/sisoputnfrba/1C2019-Scripts-lql-entrega.git
